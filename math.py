@@ -8,7 +8,7 @@ def sub(a,b):
     
  #multiplication function
 def multi(a,b):
-	pass
+	return a*b # from local
     
 #divide function
 def div(a,b):   
