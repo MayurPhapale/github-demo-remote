@@ -1,21 +1,15 @@
-# add Implementation
+
 def add(a,b):
-	return a+b
+	pass
     
-# sub implementation
+
 def sub(a,b):
-	return a-b #on master branch
+	pass
     
-# multi implementation    
+ 
 def multi(a,b):
-	return a*b #on the BUG456
+	pass
     
-# div implementation
-def div(a,b):   #on master
-	if(b==0):
-        return ERROR_DIVIDE_BY_ZERRO
-    else:
-        return a/b
-#square implementation
-def square(a):
-    return a*a
+
+def div(a,b):   
+	pass
